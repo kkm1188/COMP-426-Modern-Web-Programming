@@ -1,0 +1,11 @@
+body {background-color: powderblue;}
+h1   {font-family:Verdana; border: 1px solid #000000; padding: 25px; margin: 30px; background-color: #32839c}
+p    {color: #520e52; font-family: 'Gill Sans'; margin:20px; width: 500px; height: 100px;}
+#five .six{color: #430793; font-family: 'Cambria'; margin: 10px}
+#seven .eight{color: #430793; font-family: 'Cambria'; margin: 10px}
+#nine .ten{color: #430793; font-family: 'Cambria'; margin: 10px}
+#eleven .twelve{color: #430793; font-family: 'Cambria'; margin: 10px}
+
+#one.two{color:#0000ff}
+#one .three{color: #430793; font-family: 'Cambria'; margin: 10px}
+#one .three:hover{color:#ff0000}
