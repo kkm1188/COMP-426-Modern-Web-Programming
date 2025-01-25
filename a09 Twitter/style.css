@@ -1,0 +1,74 @@
+html{
+    background-color:skyblue;
+}
+body{
+    color: black;
+}
+
+#header{
+    text-align: center;
+    padding-bottom: 10px;
+    color: rgb(0, 138, 193);
+}
+.title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+.refresh, .newTweet{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(89, 186, 224);;
+}
+.refresh:hover, .newTweet:hover{
+    background-color: skyblue;
+}
+#main{
+    text-align: center;
+}
+
+#mainPage{
+    border-width: 2px;
+    border-color:snow;
+}
+
+.singleTweet{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    border: 1px outset black;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 50% ;
+    margin-left: 25%;
+    background-color: white;
+}
+
+.button{
+    padding-top: 1px;
+    height: 20px;
+    margin-bottom: 15px;
+}
+
+.button:hover{
+    background-color: rgb(84, 175, 211);
+    color: whitesmoke;
+    border: 0px inset;
+}
+
+.like:hover{
+    background-color: rgb(84, 175, 211);
+}
+
+.edit:hover{
+    background-color: green;
+}
+
+.unlike:hover{
+    background-color: white;
+    color: rgb(84, 175, 211);
+}
+
+.delete:hover{
+    background-color: darkred;
+    color: whitesmoke;
+}
